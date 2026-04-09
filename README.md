@@ -8,7 +8,7 @@ I am also an undergraduate research fellow at my university, working on a projec
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Tools
 
 <img 
     align="left" 
