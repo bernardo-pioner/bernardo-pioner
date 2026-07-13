@@ -4,7 +4,7 @@ I am a full-stack software developer focused on building end-to-end applications
 
 Currently, I am an intern at Banrisul, where I have worked on web projects using technologies such as JavaScript and jQuery, as well as backend applications with C#.
 
-I am also an undergraduate research fellow at my university, working on a project focused on developing a Quarkus application integrated with AI to provide personalized feedback to students learning the C programming language.
+I am also an undergraduate research fellow at my university, working on a project focused on developing a Quarkus application integrated with AI to provide personalized feedback to students learning the fundamental concepts of programming.
 
 ---
 
