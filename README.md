@@ -34,6 +34,7 @@ I am also an undergraduate research fellow at my university, working on a projec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<!--
 <img 
     align="left" 
     alt="TypeScript"
@@ -66,6 +67,7 @@ I am also an undergraduate research fellow at my university, working on a projec
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+-->
 <img 
     align="left" 
     alt="JQuery" 
@@ -73,6 +75,14 @@ I am also an undergraduate research fellow at my university, working on a projec
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSharp" 
+    title="CSharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
@@ -98,15 +108,14 @@ I am also an undergraduate research fellow at my university, working on a projec
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-<img
+<img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
+    alt="C"
+    title="C"
+    width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>         
-          
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/250px-C_Programming_Language.svg.png"
+/>
 <br/>
 <br/>
 
